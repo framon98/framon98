@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @framon98
 - 👀 I’m interested in coding, books, tech and the MCU
-- 🌱 I’m currently learning the Tkinter framework for python and PHP for Web
+- 🌱 I’m currently learning the Django framework for python and PHP for Web Development
 - 📫 How to reach me:
   - via mail to iceman98@hotmail.com
   
